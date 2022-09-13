@@ -18,4 +18,6 @@ Let's try it out!
 
 ### Author: Youyu Zhu
 <br>
-The last two packages of styling are convient and reliable to generate decent web components. It is be a good resource for react starters to produce high-quality projects without concerning CSS issues and arrangements.
+The last two packages of styling are convient and reliable to generate decent web components. It is be a good resource for react starters to produce high-quality projects without concerning CSS issues and arrangements.<br>
+<br>
+However, I'm wondering if these generated styles will be too extensively used to attract attention. All the packed CSS formats could be even cliche to the users.
