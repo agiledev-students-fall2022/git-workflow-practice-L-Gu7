@@ -6,10 +6,7 @@ I've been relied on Bootstrap to style my React apps, but it's time to apply som
 Here is the link to the website I found: <br>
 <https://levelup.gitconnected.com/top-3-ways-to-style-react-components-like-pro-in-2022-9d210bacb98f>
 
-<br>
-
-<!-- ![MEME](/assets/image.png) -->
-<img src="./assets/image.png" width="250" height="120">
+![MEME](/assets/image.png)
 
 The article provides three useful tips about styling: using CSS modules, Chakra UI and the classic approach styled-components.
 > in Charka UI you will mostly pass the styling through the props instead of writing a list of classes, it looks more natural for React applications to use props.
